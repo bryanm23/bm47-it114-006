@@ -7,4 +7,4 @@ MILESTONE 4: https://github.com/bryanm23/bm47-it114-006/tree/main/MM
 MILESTONE 3: https://github.com/bryanm23/bm47-it114-006/tree/main/Milestone3
 
 My original youtube video does not have audio for some reason. Please use this link: https://youtu.be/VXxFjK9XtSs The youtube video link in Canvas is the incorrect video.
-#THE IT114 FINAL DEMO (MILESTONE 4) can be found in the MILESTONE 4 branch.
+THE IT114 FINAL DEMO (MILESTONE 4) can be found in the MILESTONE 4 branch as well as above.
