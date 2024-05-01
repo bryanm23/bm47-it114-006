@@ -1,5 +1,6 @@
 # bm47-it114-006
 
+<<<<<<< Milestone4
 # The entire project is located under the "MM" folder in the Milestone4 branch.
 
 Please note that: 
@@ -8,3 +9,6 @@ Many of the previous Milestones (Milestone 3, 2, 1, etc.) are not properly worki
 
 The final demo youtube video can be found at: https://youtu.be/Ki9Ux9FQE-E
 The backup youtube video can be found at: https://youtu.be/7i1ZQle-yrI
+=======
+#THE IT114 FINAL DEMO (MILESTONE 4) can be found in the MILESTONE 4 branch.
+>>>>>>> main
